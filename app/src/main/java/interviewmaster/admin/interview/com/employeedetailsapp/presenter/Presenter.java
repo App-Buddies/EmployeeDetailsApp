@@ -1,0 +1,10 @@
+package interviewmaster.admin.interview.com.employeedetailsapp.presenter;
+
+/**
+ * Created by ADMIN on 05-07-2017.
+ */
+
+public interface Presenter {
+    void loadEmployeeDetails();
+
+}
